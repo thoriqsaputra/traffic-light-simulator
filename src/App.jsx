@@ -1,5 +1,5 @@
 import React from 'react';
-import TrafficLight from './components/TrafficLight';
+import TrafficLight from './TrafficLight/TrafficLight';
 
 export default function App() {
   return <TrafficLight />;
